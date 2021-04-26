@@ -1,2 +1,3 @@
 # Sudoku_Game
-Sudoku Game OOP using java
+Sudoku Game using java OOP
+(3/2021)
